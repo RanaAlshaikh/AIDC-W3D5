@@ -1,0 +1,6 @@
+{
+  "target_p95_s": 5.0,
+  "knee_concurrency": 16,
+  "tokens_per_s": 701.61,
+  "latency_p95_s": 2.3631
+}
